@@ -1,0 +1,22 @@
+{
+  "name": "just-tech-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josh236061/just-tech-news.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josh236061/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/Josh236061/just-tech-news#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
